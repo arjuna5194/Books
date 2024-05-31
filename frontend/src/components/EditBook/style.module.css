@@ -1,0 +1,9 @@
+.errorTexts {
+  font-size: 10px;
+  color: red;
+  text-align: left;
+}
+
+.input {
+  width: 100%;
+}
